@@ -10,9 +10,6 @@ import argparse
     Gyuyeon Lim and Myung-Kyu Yi
 '''
 
-def count_parameters(model):
-    return sum(p.numel() for p in model.parameters() if p.requires_grad)
-
 class RMSNorm(nn.Module):
     def __init__(self, d, eps=1e-6):
         super().__init__()
