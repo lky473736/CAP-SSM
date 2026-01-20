@@ -1,7 +1,7 @@
 # CAP-SSM
 (paper source) Context-Aware Prototype-Guided State-Space Model for Efficient Wearable Human Activity Recognition in IoT Devices
 
-<p align="center"><img src='./overall_architecture.png'></p>
+<p align="center"><img src='./overall_architecture0.png'></p>
 
 This repository implements the methodology proposed in the paper "Context-Aware Prototype-Guided State-Space Model for Efficient Wearable Human Activity Recognition in IoT Devices".
 
